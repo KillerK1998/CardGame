@@ -1,0 +1,4 @@
+﻿  CardGame.cpp
+D:\CardGame\CardGame\War.h(128,80): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+D:\CardGame\CardGame\War.h(132,82): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  CardGame.vcxproj -> D:\CardGame\x64\Debug\CardGame.exe
